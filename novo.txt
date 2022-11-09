@@ -1,1 +1,1 @@
-novo branch feature
+novo branch nova_branch
